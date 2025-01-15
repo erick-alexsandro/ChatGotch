@@ -68,4 +68,4 @@ node app.js
 The bot will start and display "Ready!" when successfully connected to Discord. The web interface will be available at http://localhost:8080.
 
 ## Contributing
-Thank you for considering making a contribution thank you for considering making a contribution! 
+Thank you for considering making a contribution! 
